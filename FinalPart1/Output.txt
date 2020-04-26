@@ -1,0 +1,13 @@
+bash-3.2$ java Tester
+Enter number of games to play: 
+10
+Player 1 Score: 4
+Player 2 Score: 4
+Player 3 Score: 8
+
+bash-3.2$ java Tester
+Enter number of games to play: 
+30
+Player 1 Score: 13
+Player 2 Score: 11
+Player 3 Score: 14
